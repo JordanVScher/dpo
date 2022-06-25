@@ -35,7 +35,7 @@
     "jsonfile": "^5.0.0",
     "messaging-api-messenger": "^0.7.16",
     "moment": "^2.24.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "nodemailer": "^6.4.2",
     "nodemon": "^2.0.4",
     "promisepipe": "^3.0.0",
